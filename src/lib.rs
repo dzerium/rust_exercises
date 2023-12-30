@@ -8,4 +8,6 @@
 
 //pub mod difference_of_squares;
 
-pub mod anagram;
+//pub mod anagram;
+
+pub mod space_age;
