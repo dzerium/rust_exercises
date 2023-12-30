@@ -6,6 +6,6 @@
 //pub mod difference_of_squares;
 //pub mod anagram;
 //pub mod space_age;
+//pub mod minesweeper;
 
-
-pub mod minesweeper;
+pub mod luhn_checksum;
